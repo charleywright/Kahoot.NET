@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hB+7m3fcsq34pmcdTUTg09jpzs/DKl8L5D+X886cxLjkGqdqzdK/UrBRoFbJbPwRUPWH8CGdGNNVHRqXKO+UnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charl\\Documents\\Code\\Kahoot.NET\\Kahoot.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
